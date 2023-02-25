@@ -2,7 +2,9 @@
 //a)	Implement Huffman encoding and decoding.
 
 package Question6;
-import java.util.*;
+
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
 // Node class to store data, character and left and right child
 class Node {
