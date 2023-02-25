@@ -1,7 +1,12 @@
 package Question1;
 /*
 a)
-There are n nations linked by train routes. You are given a 2D array indicating routes between countries and the time required to reach the target country, such that E[i]=[xi,yi,ki], where xi represents the source country, yi represents the destination country, and ki represents the time required to go from xi to yi. If you are also given information on the charges, you must pay while entering any country. Create an algorithm that returns the cheapest route from county A to county B with a time constraint.
+There are n nations linked by train routes. You are given a 2D array indicating routes between
+countries and the time required to reach the target country, such that E[i]=[xi,yi,ki], where xi
+ represents the source country, yi represents the destination country, and ki represents the time
+ required to go from xi to yi. If you are also given information on the charges, you must pay while
+  entering any country. Create an algorithm that returns the cheapest route from county A to county
+   B with a time constraint.
 
 Input: edge= {{0,1,5}, {0,3,2}, {1,2,5}, {3,4,5}, {4,5,6}, {2,5,5}}
 Charges = {10,2,3,25,25,4}
