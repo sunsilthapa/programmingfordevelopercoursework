@@ -2,7 +2,6 @@ package Question4;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.PriorityQueue;
 
 class Pair {
     int value, frequency;
