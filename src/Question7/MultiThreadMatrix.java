@@ -2,7 +2,7 @@ package Question7;
 
 import java.util.Date;
 import java.util.Random;
-public class Bynxn {
+public class MultiThreadMatrix {
     public static void main(String[] args) {
 
         Date start = new Date();
